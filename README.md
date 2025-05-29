@@ -14,7 +14,7 @@
 
 | Budget | Recommandation | Profil |
 |--------|----------------|--------|
-| ![Budget](./screens/budget.jpg) | ![Recommandation](./screens/recom.jpg) | ![Profil](./screenshots/profil.jpg) |
+| ![Budget](./screens/budget.jpg) | ![Recommandation](./screens/recom.jpg) | ![Profil](./screens/profil.jpg) |
 
 
 ---
