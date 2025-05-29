@@ -1,0 +1,18 @@
+package com.locatour.budgetapp.model.dto;
+
+import lombok.Getter;
+import lombok.Setter;
+import lombok.NoArgsConstructor;
+import lombok.AllArgsConstructor;
+
+@Getter
+@Setter
+@NoArgsConstructor
+@AllArgsConstructor
+public class AuthResponse {
+    private String token;
+    private String username;
+    private String email;
+    private boolean isSubscribed; // To indicate subscription status
+    private int freeTriesLeft; // To indicate remaining free tries
+}
