@@ -14,9 +14,8 @@
 
 | Budget | Recommandation | Profil |
 |--------|----------------|--------|
-| ![Budget](./screen/budget.jpg) | ![Recommandation](./screenshots/recommandation.jpg) | ![Profil](./screenshots/profil.jpg) |
+| ![Budget](./screens/budget.jpg) | ![Recommandation](./screens/recom.jpg) | ![Profil](./screenshots/profil.jpg) |
 
-> 📸 *(Placez vos images dans un dossier `screenshots/` du repo)*
 
 ---
 
